@@ -1,4 +1,4 @@
-# Learn Git and GitHub in DevOps
+# Learn Git and GitHub for DevOps
 
 Welcome to our beginner's guide to Git and GitHub in DevOps!
 
